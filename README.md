@@ -1,7 +1,7 @@
 # Rewrite: Neural Style Transfer For Chinese Fonts
 
 <p align="center">
-  <img src="https://github.com/kaonashi-tyc/Rewrite/blob/master/images/mixed_font.gif?raw=true" alt="animation"/>
+  <img src="https://pic1.zhimg.com/80/v2-87d5df3a76760a9d9b95a86226de1440_hd.jpg" alt="animation"/>
 </p>
 
 ## Update
